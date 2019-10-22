@@ -27,7 +27,7 @@ Straight from github with Hadley Wickham's [devtools](https://github.com/hadley/
 
 ```r
 if(!require("devtools")) install.packages("devtools")
-devtools::install_github('nat.utils','jefferis')
+devtools::install_github('jefferis/nat.utils')
 ```
 Note: Windows users need [Rtools](http://www.murdoch-sutherland.com/Rtools/) to
 install in this way.
